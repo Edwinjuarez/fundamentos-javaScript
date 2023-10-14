@@ -17,23 +17,7 @@ console.log("la variable texto es de tipo:",typeof Number(texto));
 //console.log( typeof boleano,"soy boleano");
 
 //Ejercicio*/
-/*
-let suma_valores = 5+10;
-var texto = "100";
-console.log("La suma de valores es:",typeof String(suma_valores));
-console.log ("el resultado de texto es:", typeof Number(texto));*/
-/*
-var suma_valores = 5 +10;
-console.log (suma_valores);
-let a = 5;
-let b = 10;
-let suma_valor = a + b;
-console.log(suma_valor);
-*/
 
-//operadores
-Ejemplo de la combercion de los numeros con un String.
-let suma_numero1=Number("20");
-let suma_numero2=50;
-let resultado=suma_numero1+suma_numero2
-console.log(resultado);
+let suma_valores = 5+10;
+console.log("La suma de valores de es:",typeof String(suma_valores));
+

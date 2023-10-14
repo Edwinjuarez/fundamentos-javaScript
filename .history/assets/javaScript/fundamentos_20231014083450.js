@@ -32,7 +32,7 @@ console.log(suma_valor);
 */
 
 //operadores
-Ejemplo de la combercion de los numeros con un String.
+
 let suma_numero1=Number("20");
 let suma_numero2=50;
 let resultado=suma_numero1+suma_numero2
